@@ -1,0 +1,300 @@
+canonical_identifier: bkk:krp/KR6r0171/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0171/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重編諸天傳
+  identifiers:
+    krp: KR6r0171
+    cbeta: X88n1658
+    cbeta_old_id: X88n1658
+    authorityid: CA0004143
+    json_key: X1658
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1658.xml
+    old_id: X88n1658
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0171_000-X.yaml, hash: 'sha256:e7ad9397f9849e6f96c2dc69f426072d3c903254814d17ddb687a346891e114c'}
+  - {seq: 1, filename: KR6r0171_001-X.yaml, hash: 'sha256:2bfa944ba6e09d5a987e0a07779ce4a20d9bfd400eaeaecc1e5a72213438d887'}
+  - {seq: 2, filename: KR6r0171_002-X.yaml, hash: 'sha256:7b9d2fcfc9a7205e3ffad26efda22f4a6e796e50188e6ea6e9e72af560e065e7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0171_000-X.markers.yaml, hash: 'sha256:8bd6016aaa9e15b692dcb4b76bd6154835fdd027bc5b363f3ffeb7c2ad9d0fa1'}
+  - {seq: 1, role: markers, filename: assets/KR6r0171_001-X.markers.yaml, hash: 'sha256:ff2d31f262a816890815216a0e50ab25711bd9d2faedeb127bf8ab537862a936'}
+  - {seq: 2, role: markers, filename: assets/KR6r0171_002-X.markers.yaml, hash: 'sha256:3f79ac9c15660877ea83a90544b1c6fa53339be400e916f0845d0d67182b26c0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0171_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1658-A 諸天傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9518
+  label: 重編諸天傳并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 重編諸天傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-2
+    span:
+    - body
+    - 166
+    - 166
+  label: 息總別位次之諍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-3
+    span:
+    - body
+    - 1081
+    - 1081
+  label: 大梵天王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-4
+    span:
+    - body
+    - 2222
+    - 2222
+  label: 帝釋天王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-5
+    span:
+    - body
+    - 3265
+    - 3265
+  label: 四天王總傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-6
+    span:
+    - body
+    - 4495
+    - 4495
+  label: 北方天王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-7
+    span:
+    - body
+    - 5325
+    - 5325
+  label: 東方天王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-8
+    span:
+    - body
+    - 5786
+    - 5786
+  label: 南方天王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-9
+    span:
+    - body
+    - 6353
+    - 6353
+  label: 西方天王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-10
+    span:
+    - body
+    - 6965
+    - 6965
+  label: 金剛密迹傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-11
+    span:
+    - body
+    - 8040
+    - 8040
+  label: 摩醯首天傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0171_X_001-mulu-12
+    span:
+    - body
+    - 8829
+    - 8829
+  label: 散脂大將傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 10608
+  label: 重編諸天傳下卷
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大辯天傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-2
+    span:
+    - body
+    - 790
+    - 790
+  label: 功德天傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-3
+    span:
+    - body
+    - 1706
+    - 1706
+  label: 韋天將軍傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-4
+    span:
+    - body
+    - 2179
+    - 2179
+  label: 堅牢地神傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-5
+    span:
+    - body
+    - 2967
+    - 2967
+  label: 菩提樹神傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-6
+    span:
+    - body
+    - 3516
+    - 3516
+  label: 鬼子母天傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-7
+    span:
+    - body
+    - 4210
+    - 4210
+  label: 摩利支天傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-8
+    span:
+    - body
+    - 5172
+    - 5172
+  label: 日宮天子傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-9
+    span:
+    - body
+    - 6237
+    - 6237
+  label: 月宮天子傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-10
+    span:
+    - body
+    - 7144
+    - 7144
+  label: 娑竭龍王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-11
+    span:
+    - body
+    - 8287
+    - 8287
+  label: 閻摩羅王傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0171_X_002-mulu-12
+    span:
+    - body
+    - 9406
+    - 9406
+  label: 傳後續辯
+  type: mulu
+  level: 1
+hash: sha256:2d1af51db01dbb496db5867747d4fbbd62a9b297539920d29f1384c0857407d2
