@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0171/v1
 canonical_location: https://kanripo.org/bkk/KR6r0171/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 重編諸天傳
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0171_000.yaml, hash: 'sha256:e7ad9397f9849e6f96c2dc69f426072d3c903254814d17ddb687a346891e114c'}
-  - {seq: 1, filename: KR6r0171_001.yaml, hash: 'sha256:2bfa944ba6e09d5a987e0a07779ce4a20d9bfd400eaeaecc1e5a72213438d887'}
-  - {seq: 2, filename: KR6r0171_002.yaml, hash: 'sha256:7b9d2fcfc9a7205e3ffad26efda22f4a6e796e50188e6ea6e9e72af560e065e7'}
+  - {seq: 0, filename: KR6r0171_000.yaml, hash: 'sha256:3fbe2aab14076a1770f82af1121a5681b71e34a851f3d02100436fec2d10a9c9'}
+  - {seq: 1, filename: KR6r0171_001.yaml, hash: 'sha256:f7f3a49ebe135ee4b342a318a2ab427d202f780291ec867012042a7e8609df70'}
+  - {seq: 2, filename: KR6r0171_002.yaml, hash: 'sha256:34bbdf4016ddaec26d3f694e760d0866b25e48e3995ad8bb6c9f4e519650f70b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0171_000.markers.yaml, hash: 'sha256:a382e1eb4c0479a98f780f88dc395572d1e661370692044ccb7a27acc02a2ea4'}
-  - {seq: 1, role: markers, filename: assets/KR6r0171_001.markers.yaml, hash: 'sha256:fdc419d3de1f3892c0c4d51d45de8cacf98136d76598f3b00ac1887d1f4db9f8'}
-  - {seq: 2, role: markers, filename: assets/KR6r0171_002.markers.yaml, hash: 'sha256:16579ffd3638ab4b3d236c6b03d1e8ef9f09c64adf234baa800cdb2a0d1062c0'}
+  - {seq: 0, role: markers, filename: assets/KR6r0171_000.markers.yaml, hash: 'sha256:e32624bb616773518139f7b69739ca968eac8a02e781338c869f059b95f1efda'}
+  - {seq: 1, role: markers, filename: assets/KR6r0171_001.markers.yaml, hash: 'sha256:286fe92583e8c819f3e8459f948a5aa783557f0c00ff1f007adaf427479a5606'}
+  - {seq: 2, role: markers, filename: assets/KR6r0171_002.markers.yaml, hash: 'sha256:412c9291d032f1e781bc7c38f6140b8dbd11bd882fb4133e2393568907ace755'}
 table_of_contents:
 - ref:
     seq: 0
@@ -299,4 +299,7 @@ table_of_contents:
   label: 傳後續辯
   type: mulu
   level: 1
-hash: sha256:c8ec508d9fdf80b75eb3270b7f191cd575dc59c429e277c8254ea588adb89949
+hash: sha256:a1fe1bf85e3ca21a7bff20dc6e13ed1428f0a43e1a9934f52562fc30a294da30
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
